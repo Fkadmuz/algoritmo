@@ -25,6 +25,6 @@ margem do rio para a outra.
 4. Trocar a cabra pelo lobo e cruzar o rio com o lobo: Entrada 4;
 5. Voltar para pegar a cabra: Entrada 5;
 5. PROCESSAMENTO: travessia dos pertences que estão em uma 
-margem do rio para a outra: (Maço de Alfafa + O Lobo + A Cabra);
+margem do rio para a outra: (Carregar primeiro a Cabra + Voltar com o barco vazio, pegar o Maço de Alfafa e levar para a outra margem + Deixar o Maço de Alfafa, mas trazer a cabra de volta no barco + Trocar a cabra pelo lobo e cruzar o rio com o lobo + Voltar para pegar a cabra);
 6. Exibir o resultado: print, echo, console.log;
 7. Fim;
