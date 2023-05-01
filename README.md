@@ -19,9 +19,11 @@ margem do rio para a outra.
 ### Algoritmo para resolver o problema da travessia de modo "seguro"
 
 1. Inicio;
-2. Carregar primeiro o Maço de Alfafa: Entrada 1;
-3. Carregar o Lobo: Entrada 2;
-4. Carregar a Cabra: Entrada 3;
+2. Carregar primeiro a Cabra: Entrada 1;
+3. Voltar com o barco vazio, pegar o Maço de Alfafa e levar para a outra margem: Entrada 2;
+3. Deixar o Maço de Alfafa, mas trazer a cabra de volta no barco: Entrada 3;
+4. Trocar a cabra pelo lobo e cruzar o rio com o lobo: Entrada 4;
+5. Voltar para pegar a cabra: Entrada 5;
 5. PROCESSAMENTO: travessia dos pertences que estão em uma 
 margem do rio para a outra: (Maço de Alfafa + O Lobo + A Cabra);
 6. Exibir o resultado: print, echo, console.log;
